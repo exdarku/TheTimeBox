@@ -29,6 +29,8 @@ The Time Box is Qt-based. There is a GUI and everything is straight forward.
 
 An autosave system has been implemented and runs every 3 seconds.
 
+Also know that every day, your previous notes on the last day will be saved and a new blank page will be loaded. I am still developing a system wherein you can load the previous' day notes.
+
 ## Image
 
 ![alt text](https://laurencelesmoras.dev/images/external_resource/ttb.JPG "Screenshot")
