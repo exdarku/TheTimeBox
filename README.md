@@ -29,6 +29,7 @@ The Time Box is Qt-based. There is a GUI and everything is straight forward.
 
 An autosave system has been implemented and runs every 3 seconds.
 
+## Images
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
